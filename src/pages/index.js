@@ -1,10 +1,10 @@
 import React from 'react';
+import Arrow from 'assets/img/arrow.svg';
 
 const IndexPage = () => (
   <div>
     <h1>Hi people</h1>
-    <p>Welcome to your new Gatsby site.</p>
-    <p>Now go build something great.</p>
+    <Arrow />
   </div>
 );
 

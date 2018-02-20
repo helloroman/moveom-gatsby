@@ -10,8 +10,7 @@ module.exports = {
       resolve: `gatsby-plugin-google-fonts`,
       options: {
         fonts: [
-          `Montserrat\:700`,
-          `'Playfair Display'\:400, 800`,
+          `Montserrat\:200, 500, 800`
         ]
       }
     }
