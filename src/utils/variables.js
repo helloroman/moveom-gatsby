@@ -1,6 +1,10 @@
 export const Color = {
-  primary: '#1A1919',
-  secondary: '#DADBE3',
+  black: '#3F3C3C',
+  grey: '#696969',
+  lightgrey: '#E1E1E1',
+  pale: '#F6F6F6',
+  white: '#FCFCFC',
+  graphit: '#525761',
 };
 
 export const Weight = {

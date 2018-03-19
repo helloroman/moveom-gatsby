@@ -7,7 +7,7 @@ import HeroImagePhoto from 'assets/img/heroimage.jpg';
 const Wrapper = styled.div`
   width: 100%;
   height: 100vh;
-  padding-top: 50px;
+  padding: 50px 0 0 0;
   display: flex;
   justify-content: center;
   align-items: center;

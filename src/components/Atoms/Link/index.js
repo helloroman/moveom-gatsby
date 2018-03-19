@@ -4,7 +4,7 @@ import { media } from 'utils/media';
 
 const Link = styled.a`
   margin-left: 70px;
-  color: ${Color.primary};
+  color: ${Color.graphit};
   font-weight: ${Weight.medium};
   font-family: ${MainFont};
   font-size: ${Size.tiny};

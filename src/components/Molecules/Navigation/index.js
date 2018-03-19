@@ -8,10 +8,15 @@ const StyledNavigation = styled.div`
   display: flex;
 
   ${media.tablet`
+  display: none;
+  
+  .open { 
+    display: flex;
     margin-top: 20px;
     flex-flow: column;
     align-items: center;
     justify-content: center;
+  }
   `};
 `;
 
